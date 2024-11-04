@@ -1,5 +1,3 @@
-Here's a comprehensive README file for your COVID-19 Data Analysis and Prediction project. This will serve as a guide for users to understand the project's purpose, structure, and how to run it.
-
 ```markdown
 # COVID-19 Data Analysis and Prediction
 
